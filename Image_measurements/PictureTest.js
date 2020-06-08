@@ -73,7 +73,7 @@ class PictureTest extends Component {
           onTouchStart={this.handleTouch}
           style={styles.logo}
           source={{
-            uri: "https://i.ibb.co/zJB6Q1x/yetanotherplant.jpg",
+            uri: "https://i.ibb.co/nfnXnrH/pepper-plant-1.jpg",
           }}
         />
 

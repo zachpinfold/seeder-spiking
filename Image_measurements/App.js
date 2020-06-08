@@ -12,6 +12,8 @@ import Products from "./Todo";
 import PictureTest from "./PictureTest";
 import PanTest from "./PanTest";
 import PickerTest from './PickerTest'
+import AnimatedImage from './AnimatedImage'
+
 
 function App() {
   // render()  {
